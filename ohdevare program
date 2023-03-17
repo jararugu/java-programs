@@ -1,0 +1,14 @@
+class OhDevarePls{
+         public static void main(String[] args){
+        System.out.println("oh devare one job please,we are celebrating valentines day  with no job");
+        System.out.println("*************");
+        System.out.println("oh devare\n one job please.\twe are celebrating\n valentines day  with\t no job");
+        System.out.println("*************");
+        System.out.println("1");
+        System.out.print("2");
+        System.out.println("3");
+	System.out.print("4");
+   	System.out.print("5");
+	System.out.println("6");
+  }	
+  }
